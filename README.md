@@ -5,4 +5,4 @@
 
 ## 目录
 * ### Java
- * #### [并发工具类 —— CountDownLatch CyclicBarrier Semaphore Exchanger](https://github.com/HCoderCui/TechBlog)
+	* #### [并发工具类 —— CountDownLatch CyclicBarrier Semaphore Exchanger](https://github.com/HCoderCui/TechBlog)
