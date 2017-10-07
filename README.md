@@ -5,4 +5,5 @@
 
 ## 目录
 * ### Java
-	* #### [并发工具类 —— CountDownLatch CyclicBarrier Semaphore Exchanger](http://ifeve.com/?x=36&y=14&s=%E5%B9%B6%E5%8F%91%E5%B7%A5%E5%85%B7%E7%B1%BB)
+	* #### [并发工具类](http://ifeve.com/?x=36&y=14&s=%E5%B9%B6%E5%8F%91%E5%B7%A5%E5%85%B7%E7%B1%BB)
+
